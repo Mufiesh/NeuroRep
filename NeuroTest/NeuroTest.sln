@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroTest", "NeuroTest\NeuroTest.csproj", "{AC76653E-4261-4E6E-A736-6682F8F224EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CBF3CE1A-17D5-49A9-B3D9-CB5EB0C34B81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC76653E-4261-4E6E-A736-6682F8F224EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC76653E-4261-4E6E-A736-6682F8F224EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC76653E-4261-4E6E-A736-6682F8F224EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF3CE1A-17D5-49A9-B3D9-CB5EB0C34B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF3CE1A-17D5-49A9-B3D9-CB5EB0C34B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF3CE1A-17D5-49A9-B3D9-CB5EB0C34B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF3CE1A-17D5-49A9-B3D9-CB5EB0C34B81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

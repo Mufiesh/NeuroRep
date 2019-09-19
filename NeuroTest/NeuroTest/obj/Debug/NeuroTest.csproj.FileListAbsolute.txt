@@ -1,0 +1,5 @@
+C:\Нейронка\NeuroRep\NeuroTest\NeuroTest\obj\Debug\NeuroTest.csprojResolveAssemblyReference.cache
+C:\Нейронка\NeuroRep\NeuroTest\NeuroTest\obj\Debug\MainWindow.g.cs
+C:\Нейронка\NeuroRep\NeuroTest\NeuroTest\obj\Debug\App.g.cs
+C:\Нейронка\NeuroRep\NeuroTest\NeuroTest\obj\Debug\NeuroTest_MarkupCompile.cache
+C:\Нейронка\NeuroRep\NeuroTest\NeuroTest\obj\Debug\NeuroTest_MarkupCompile.lref
